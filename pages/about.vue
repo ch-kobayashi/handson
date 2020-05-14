@@ -6,7 +6,7 @@
 export default {
     head() {
         return {
-            title: 'ABOUT',
+            title: 'This is ABOUT Page!',
             meta: [
                 { hid: 'description', name: 'description', content: 'aboutページ'}
             ]
